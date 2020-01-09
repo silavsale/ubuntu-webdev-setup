@@ -9,16 +9,16 @@
 - [x] Install Node LTS version & Latest
 - [x] Install Git
 - [x] Setup Git SSH
-- [x] Install VScode
-- [x] VScode theme
-- [x] VScode settings
-- [x] VScode extensions
-  - [x] Live sass compiler
-  - [x] Prettier
-  - [x] Vetur
-  - [x] vscode-icons
-- [x] Install lite-server
-- [x] Install MongoDB & run as service
+- [] Install VScode
+- [] VScode theme
+- [] VScode settings
+- [] VScode extensions
+  - [] Live sass compiler
+  - [] Prettier
+  - [] Vetur
+  - [] vscode-icons
+- [] Install lite-server
+- [] Install MongoDB & run as service
 
 ### Commands
 
