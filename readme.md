@@ -26,7 +26,7 @@
 
 2. `sudo apt-get install curl build-essential libssl-dev`
 
-3. `curl https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`\
+3. `wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`\
    `sudo dpkg -i google-chrome-stable_current_amd64.deb`
 
 4. `curl https://raw.githubusercontent.com/creationix/nvm/v0.35.0/install.sh | bash`\
